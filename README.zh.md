@@ -234,7 +234,7 @@
 
 ## 发展路线图 🗺
 
-未来的技术规划与功能特性跟踪于 [VeRL-Omni 第三季度路线图 (Q3 Roadmap)](https://github.com/verl-project/verl-omni/issues/97)。
+未来的技术规划与功能特性跟踪于 [VeRL-Omni Q4 Roadmap)](https://github.com/verl-project/verl-omni/issues/700)。
 
 ## 参与贡献 🤝
 
@@ -246,7 +246,7 @@
 
 ## 致谢 🌟
 
-`verl-omni` 承袭自 [`verl`](https://github.com/verl-project/verl) 坚实的工程体系基础，并与 [`vLLM-Omni`](https://github.com/vllm-project/vllm-omni) 等前沿多模态推理系统紧密协同配合。
+`verl-omni` 构建在 [`verl`](https://github.com/verl-project/verl) 坚实的框架基础之上，并与 [`vLLM-Omni`](https://github.com/vllm-project/vllm-omni) 等前沿多模态推理系统紧密协同配合。
 
 ## 学术引用 📚
 
